@@ -44,6 +44,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
-
+- [Visite o projeto online](https://saviotc.github.io/nlw-setup/)
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
